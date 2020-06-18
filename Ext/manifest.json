@@ -4,7 +4,9 @@
     "version": "1.0.0",
     "version_name": "1.0.0",
     "icons": {
-        "512": "icon.png"
+        "16": "icon-16.png",
+        "48": "icon-48.png",
+        "128": "icon-128.png"
     },
     "browser_action": {
         "default_icon": "icon.png"
