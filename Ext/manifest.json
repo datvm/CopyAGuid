@@ -16,7 +16,6 @@
     },
     "permissions": [
         "offscreen",
-        "scripting",
         "clipboardWrite"
     ]
 }
